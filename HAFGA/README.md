@@ -1,6 +1,6 @@
-# HMA: Hardness-aware Fine-grained LLM Augmentation for Fake News Detection
+# HAFGA: Hardness-Aware Fine-Grained LLM Augmentation for Fake News Detection
 
-HMA is a difficulty-aware data augmentation framework for fake news
+HAFGA is a difficulty-aware data augmentation framework for fake news
 detection. It (1) models per-sample classification difficulty, (2) decides
 **whether** and **how strongly** to augment each hard sample via a two-stage
 gate, and (3) generates fine-grained, multi-style augmentations with an LLM,
