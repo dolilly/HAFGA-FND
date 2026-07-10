@@ -30,7 +30,7 @@ before re-training the final detector on the augmented set.
 ## Repository Structure
 
 ```
-HMA/
+HAFGA/
 ├── README.md
 ├── requirements.txt
 ├── .env.example                 # template for DEEPSEEK_API_KEY
@@ -82,7 +82,7 @@ expected layout and label conventions.
 ## Installation
 
 ```bash
-git clone <your-repo-url> HMA && cd HMA
+git clone <your-repo-url> HAFGA && cd HAFGA
 python -m venv .venv && source .venv/bin/activate   # optional
 pip install -r requirements.txt
 ```
